@@ -1,0 +1,13 @@
+body{
+    background: #000;
+}
+.tittle{
+    color: #fff;
+    font-size: 100px;
+    font-weight: normal;
+    line-height: 80%;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 13%;
+    -webkit-box-reflect: below 0px linear-gradient(rgba(0,0,0,0.05),rgba(0,0,0,0.4));
+}
